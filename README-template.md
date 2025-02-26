@@ -1,55 +1,39 @@
-# Table of Contents
+# README Template
 
-- [About the Project](#about-the-project)
-  - [Screenshots](#screenshots)
-  - [Tech Stack](#tech-stack)
-  - [Features](#features)
-  - [Color Reference](#color-reference)
-  - [Environment Variables](#environment-variables)
-- [Getting Started](#getting-started)
+> [!TIP]
+> You can copy this file and use it as a template for your own project's `README.md` file. Check out [our instructions on how to use these templates!](README.md)
+
+What is your project, and why did you create it? You can help potential users—and contributors, if your project accepts contributions—understand the problem your project solves, and perhaps a bit of why you chose to the solve the problem in this way. This section should be fairly short (you'll go into more detail below). For inspiration, check out [Lazygit's "Elevator pitch" section](https://github.com/jesseduffield/lazygit?tab=readme-ov-file#elevator-pitch).
+
+You might also like to include a screenshot of your project in use!
+
+## Table of contents
+
+- [Features](#features)
+- [Getting started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Running Tests](#running-tests)
-  - [Run Locally](#run-locally)
-  - [Deployment](#deployment)
+  - [Environment variables (optional)](#environment-variables-optional)
+  - [Running tests (optional)](#running-tests-optional)
+  - [Run locally (optional)](#run-locally-optional)
+  - [Deployment (optional)](#deployment-optional)
 - [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
+  - [Screenshots (optional)](#screenshots-optional)
+- [Roadmap (optional)](#roadmap-optional)
+- [Contributing (optional)](#contributing-optional)
   - [Code of Conduct](#code-of-conduct)
-- [FAQ](#faq)
+- [FAQ (optional)](#faq-optional)
 - [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
-## About the Project
-
-### Screenshots
-
-![Screenshot of example code](screenshot.svg)
-
-### Tech Stack
-
-- Typescript
-- React
-- Tailwind
+- [Contact (optional)](#contact-optional)
+- [Acknowledgements (optional)](#acknowledgements-optional)
 
 ### Features
+
+What are the awesome things your project can do? You don't need to list every feature (though you might, if your project is fairly small!), but you can list the standouts:
 
 - Feature 1
 - Feature 2
 - Feature 3
-
-## Usage
-
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
-
-```javascript
-import Component from "my-project";
-
-function App() {
-  return <Component />;
-}
-```
 
 ## Getting Started
 
@@ -70,7 +54,7 @@ Install my-project with npm
   cd my-project
 ```
 
-### Environment Variables
+### Environment variables (optional)
 
 To run this project, you'll need to add the following environment variables to your .env file:
 
@@ -78,7 +62,7 @@ To run this project, you'll need to add the following environment variables to y
 
 `ANOTHER_API_KEY`
 
-### Running Tests
+### Running tests (optional)
 
 To run tests, run the following command:
 
@@ -86,7 +70,7 @@ To run tests, run the following command:
   yarn test test
 ```
 
-### Run Locally
+### Run locally (optional)
 
 Clone the project:
 
@@ -112,7 +96,7 @@ Start the server
   yarn start
 ```
 
-### Deployment
+### Deployment (optional)
 
 To deploy this project run
 
@@ -120,45 +104,58 @@ To deploy this project run
   yarn deploy
 ```
 
-## Roadmap
+## Usage
+
+Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
+
+### Screenshots (optional)
+
+![Screenshot of example code](screenshot.svg)
+
+```javascript
+import Component from "my-project";
+
+function App() {
+  return <Component />;
+}
+```
+
+## Roadmap (optional)
 
 Both users of and potential contributors to your project are likely to have ideas for possible features to add or other suggestions, and maintaining a roadmap will help keep everyone on the same page about plans for the project. You can [create tables in Markdown](https://www.markdownguide.org/extended-syntax/#tables), but you can also keep it simple:
 
-### Product Development Roadmap
-
-#### Backlog
+### Backlog
 
 - Research user needs for new product features
 - Develop initial product requirements document
 
-#### To Do
+### To Do
 
 - Implement core feature set
 - Create technical architecture proposal
 - Identify key performance benchmarks
 
-#### In Progress
+### In Progress
 
 - Develop minimum viable product (MVP)
 - Set up continuous integration pipeline
 
-
-#### Testing
+### Testing
 
 - Conduct alpha testing
 - Perform comprehensive security audits
 - Execute performance and load testing
 
-#### Staged for Release
+### Staged for Release
 
 - Finalize documentation
 
-#### Done
+### Done
 
 - Validate core product concept
 - Conduct user experience interviews
 
-## Contributing
+## Contributing (optional)
 
 If you'd appreciate contributions to your project, you might say something like "Contributions are always welcome! Please see [CONTRIBUTING.md](/CONTRIBUTING-template.md) for tips to get started.
 
@@ -166,7 +163,7 @@ If you'd appreciate contributions to your project, you might say something like 
 
 If you'll be accepting contributions to your project, you'll need to consider how you'll ensure a good experience for you and your contributors. Please read check out the [Code of Conduct for more detail!](/CODE_OF_CONDUCT-template.md)
 
-## FAQ
+## FAQ (optional)
 
 Any question you've been asked more than once (or suspect you'll be asked more than once!) is a good candidate for either an FAQ entry. And if you end up with more than a few FAQ entries, you'll be ready to starting writing dedicated docs (stay tuned for help with that!)
 
@@ -176,7 +173,7 @@ Answer 1
 
 **Question 2**
 
-  Answer 2
+Answer 2
 
 ## License
 
@@ -184,19 +181,19 @@ Your license file should be in the root of your project's repo, and you can link
 
 Distributed under the [insert your license name]. See [LICENSE.txt](/LICENSE) for more information.
 
-## Contact
+## Contact (optional)
 
 It's up to you to decide how you'd like to be contacted with questions about your project! Common methods include:
 
 - Email address
 - Social media handle(s)
 - Link to your project's forum, Slack channel, Discord server, etc.
-- Asking people to just open an issue to ask their question!
+- Asking people to open an issue to ask their question
 
-## Acknowledgements
+## Acknowledgements (optional)
 
-Use this section to mention useful resources and libraries that you have used in your projects. For example, we're grateful to have built this template with inspiration from:
+Use this section to mention useful resources and libraries that you've leaned on in building your project. For example, we're grateful to have built this template with inspiration from:
 
+- [Richard Littauer's Standard Readme](https://github.com/RichardLitt/standard-readme/?tab=readme-ov-file#usage)
 - [Awesome Readme Template](https://github.com/Louis3797/awesome-readme-template)
-- [Drupal's README.md template](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/readmemd-template)
 - [GitLab's "How to start a great OSS project"](https://about.gitlab.com/blog/2022/10/18/how-to-start-a-great-oss-project/)
