@@ -18,7 +18,6 @@ You might also like to include a screenshot of your project in use!
   - [Run locally (optional)](#run-locally-optional)
   - [Deployment (optional)](#deployment-optional)
 - [Usage](#usage)
-  - [Screenshots (optional)](#screenshots-optional)
 - [Roadmap (optional)](#roadmap-optional)
 - [Contributing (optional)](#contributing-optional)
   - [Code of Conduct](#code-of-conduct)
@@ -39,24 +38,25 @@ What are the awesome things your project can do? You don't need to list every fe
 
 ### Prerequisites
 
-This project uses Yarn as package manager
+What other software would a user need to have installed on their machine in order to use yours? Are there particular concepts they should already be familiar with?
 
 ```bash
- npm install --global yarn
+dependency install command here
 ```
 
 ### Installation
 
-Install my-project with npm
+How can users install your software? You might provide different methods for different package managers as well as different operating systems.
 
 ```bash
-  yarn install my-project
-  cd my-project
+your project's install command
 ```
 
 ### Environment variables (optional)
 
-To run this project, you'll need to add the following environment variables to your .env file:
+Perhaps an API is required to run your software, so you might say something like:
+
+To run this project, you'll need to add the following environment variables to your `.env` file:
 
 `API_KEY`
 
@@ -64,60 +64,56 @@ To run this project, you'll need to add the following environment variables to y
 
 ### Running tests (optional)
 
-To run tests, run the following command:
+If tests should be run, you can put the instructIons for that here.
 
 ```bash
-  yarn test test
+test command
 ```
 
 ### Run locally (optional)
 
+Perhaps your users will run your project locally:
+
 Clone the project:
 
 ```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
+  git clone yourprojecturl
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+ cd my-project
 ```
 
 Install dependencies
 
 ```bash
-  yarn install
+install command
 ```
 
 Start the server
 
 ```bash
-  yarn start
+server start command
 ```
 
 ### Deployment (optional)
 
-To deploy this project run
+How is your software deployed?
 
 ```bash
-  yarn deploy
+ deployment command
 ```
 
 ## Usage
 
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
+Use this space to document how to use your project. You might show additional screenshots, code samples, demos or link to other resources. If this section starts getting very long, consider setting up a dedicated wiki or docs site!
 
-### Screenshots (optional)
+![Grey box with the text "Your screenshot here"](screenshot.svg)
 
-![Screenshot of example code](screenshot.svg)
-
-```javascript
-import Component from "my-project";
-
-function App() {
-  return <Component />;
-}
+```python
+print("Hello, world!")
 ```
 
 ## Roadmap (optional)
@@ -157,15 +153,19 @@ Both users of and potential contributors to your project are likely to have idea
 
 ## Contributing (optional)
 
-If you'd appreciate contributions to your project, you might say something like "Contributions are always welcome! Please see [CONTRIBUTING.md](/CONTRIBUTING-template.md) for tips to get started.
+If you'd appreciate contributions to your project, you might say something like:
+
+Contributions are always welcome! Please see [CONTRIBUTING.md](/CONTRIBUTING-template.md) for tips to get started.
 
 ### Code of Conduct
 
-If you'll be accepting contributions to your project, you'll need to consider how you'll ensure a good experience for you and your contributors. Please read check out the [Code of Conduct for more detail!](/CODE_OF_CONDUCT-template.md)
+If you'll be accepting contributions to your project, you'll need to consider how you'll ensure a good experience for you and your contributors.
+
+Please read check out the [Code of Conduct for more detail!](/CODE_OF_CONDUCT-template.md)
 
 ## FAQ (optional)
 
-Any question you've been asked more than once (or suspect you'll be asked more than once!) is a good candidate for either an FAQ entry. And if you end up with more than a few FAQ entries, you'll be ready to starting writing dedicated docs (stay tuned for help with that!)
+Any question you've been asked more than once (or suspect you'll be asked more than once!) is a good candidate for an FAQ entry. And if you end up with more than a few FAQ entries, you'll be ready to starting writing dedicated docs (stay tuned for help with that!)
 
 **Question 1**
 
