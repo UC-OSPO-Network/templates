@@ -1,13 +1,14 @@
 # README Template
 
-> [!TIP]
-> You can copy this file and use it as a template for your own project's `README.md` file. Check out [our instructions on how to use these templates!](README.md)
+This is a template document for UC projects that requires editing
+before it is ready to use, and you can find the instructions for using this template on [our website](🚧). You can search for "TODO" to identify areas that
+require customization; e.g. [TODO`: delete this paragraph]. 🚧 Link to contact us for help
 
-What is your project, and why did you create it? You can help potential users—and contributors, if your project accepts contributions—understand the problem your project solves, and perhaps a bit of why you chose to the solve the problem in this way. This section should be fairly short (you'll go into more detail below). For inspiration, check out [Lazygit's "Elevator pitch" section](https://github.com/jesseduffield/lazygit?tab=readme-ov-file#elevator-pitch).
-
-You might also like to include a screenshot of your project in use!
+[TODO: add project description]
 
 ## Table of contents
+
+[TODO: edit the Table of Contents]
 
 - [Features](#features)
 - [Getting started](#getting-started)
@@ -23,12 +24,12 @@ You might also like to include a screenshot of your project in use!
   - [Code of Conduct](#code-of-conduct)
 - [FAQ (optional)](#faq-optional)
 - [License](#license)
-- [Contact (optional)](#contact-optional)
+- [Contact](#contact)
 - [Acknowledgements (optional)](#acknowledgements-optional)
 
 ### Features
 
-What are the awesome things your project can do? You don't need to list every feature (though you might, if your project is fairly small!), but you can list the standouts:
+[TODO: edit the features list]
 
 - Feature 1
 - Feature 2
@@ -38,7 +39,7 @@ What are the awesome things your project can do? You don't need to list every fe
 
 ### Prerequisites
 
-What other software would a user need to have installed on their machine in order to use yours? Are there particular concepts they should already be familiar with?
+[TODO: add/remove prerequisites]
 
 ```bash
 dependency install command here
@@ -46,7 +47,7 @@ dependency install command here
 
 ### Installation
 
-How can users install your software? You might provide different methods for different package managers as well as different operating systems.
+[TODO: add installation info]
 
 ```bash
 your project's install command
@@ -54,17 +55,15 @@ your project's install command
 
 ### Environment variables (optional)
 
-Perhaps an API is required to run your software, so you might say something like:
+[TODO: edit/remove the env var info]
 
 To run this project, you'll need to add the following environment variables to your `.env` file:
 
 `API_KEY`
 
-`ANOTHER_API_KEY`
-
 ### Running tests (optional)
 
-If tests should be run, you can put the instructIons for that here.
+[TODO: edit/remove info about running tests]
 
 ```bash
 test command
@@ -72,12 +71,10 @@ test command
 
 ### Run locally (optional)
 
-Perhaps your users will run your project locally:
-
-Clone the project:
+[TODO: edit/remove info about running locally]
 
 ```bash
-  git clone yourprojecturl
+git clone yourprojecturl
 ```
 
 Go to the project directory
@@ -100,7 +97,7 @@ server start command
 
 ### Deployment (optional)
 
-How is your software deployed?
+[TODO: edit/remove deployment info]
 
 ```bash
  deployment command
@@ -108,7 +105,7 @@ How is your software deployed?
 
 ## Usage
 
-Use this space to document how to use your project. You might show additional screenshots, code samples, demos or link to other resources. If this section starts getting very long, consider setting up a dedicated wiki or docs site!
+[TODO: edit usage info]
 
 ![Grey box with the text "Your screenshot here"](screenshot.svg)
 
@@ -118,7 +115,7 @@ print("Hello, world!")
 
 ## Roadmap (optional)
 
-Both users of and potential contributors to your project are likely to have ideas for possible features to add or other suggestions, and maintaining a roadmap will help keep everyone on the same page about plans for the project. You can [create tables in Markdown](https://www.markdownguide.org/extended-syntax/#tables), but you can also keep it simple:
+[TODO: edit/remove roadmap info]
 
 ### Backlog
 
@@ -153,19 +150,19 @@ Both users of and potential contributors to your project are likely to have idea
 
 ## Contributing (optional)
 
-If you'd appreciate contributions to your project, you might say something like:
+[TODO: edit contributing info]
 
 Contributions are always welcome! Please see [CONTRIBUTING.md](/CONTRIBUTING-template.md) for tips to get started.
 
 ### Code of Conduct
 
-If you'll be accepting contributions to your project, you'll need to consider how you'll ensure a good experience for you and your contributors.
+[TODO: edit [Code of Conduct](🚧) info]
 
 Please read check out the [Code of Conduct for more detail!](/CODE_OF_CONDUCT-template.md)
 
 ## FAQ (optional)
 
-Any question you've been asked more than once (or suspect you'll be asked more than once!) is a good candidate for an FAQ entry. And if you end up with more than a few FAQ entries, you'll be ready to starting writing dedicated docs (stay tuned for help with that!)
+[TODO: edit/remove FAQ]
 
 **Question 1**
 
@@ -177,13 +174,13 @@ Answer 2
 
 ## License
 
-Your license file should be in the root of your project's repo, and you can link to it directly like this:
+[TODO: edit license info]
 
 Distributed under the [insert your license name]. See [LICENSE.txt](/LICENSE) for more information.
 
-## Contact (optional)
+## Contact
 
-It's up to you to decide how you'd like to be contacted with questions about your project! Common methods include:
+[TODO: edit contact info]
 
 - Email address
 - Social media handle(s)
@@ -192,7 +189,9 @@ It's up to you to decide how you'd like to be contacted with questions about you
 
 ## Acknowledgements (optional)
 
-Use this section to mention useful resources and libraries that you've leaned on in building your project. For example, we're grateful to have built this template with inspiration from:
+[TODO: edit/remove acknowledgements]
+
+We're grateful to have built this template with inspiration from:
 
 - [Richard Littauer's Standard Readme](https://github.com/RichardLitt/standard-readme/?tab=readme-ov-file#usage)
 - [Awesome Readme Template](https://github.com/Louis3797/awesome-readme-template)
