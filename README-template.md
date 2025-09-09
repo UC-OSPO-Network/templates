@@ -1,8 +1,10 @@
 # README Template
 
+[TODO: delete this paragraph]
+
 This is a template document for UC projects that requires editing
 before it is ready to use, and you can find the instructions for using this template on [our website](🚧). You can search for "TODO" to identify areas that
-require customization; e.g. [TODO`: delete this paragraph]. 🚧 Link to contact us for help
+require customization; e.g. line 3 above lets you know you should delete this paragraph. 🚧 Link to contact us for help
 
 [TODO: add project description]
 
