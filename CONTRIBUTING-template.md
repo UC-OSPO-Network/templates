@@ -28,14 +28,12 @@ If anything doesn't make sense, or doesn't work when you run it, please open a b
 
 - [Ways to Contribute](#ways-to-contribute)
 - [Come to Community Calls](#come-to-community-calls)
-- [Creating Issues](#creating-issues)
 - [Finding an Issue](#finding-an-issue)
 - [Setting Up a Dev Environment](#setting-up-a-dev-environment)
 - [Running Tests](#running-tests)
 - [Asking for Help](#asking-for-help)
 - [Norms for Commits](#norms-for-commits)
 - [Pull Request Lifecycle](#pull-request-lifecycle)
-- [Pull Request Checklist](#pull-request-checklist)
 - [Code of Conduct](#code-of-conduct)
 
 ## Ways to Contribute
@@ -63,12 +61,6 @@ Not everything happens through a GitHub pull request. Please come to our meeting
 Anyone interested in our project is welcome to come to any of [our community calls](TODO: add a link to your community calls)! You never need an invite to join us. In fact, we want you to join us, even if you don’t have anything you feel like you want to contribute. Just being there is enough!
 
 You don’t have to turn on your video. The first time you come, just introducing yourself is perfectly fine. Over time, we hope that you feel comfortable voicing your opinions, giving feedback on others’ ideas, and even sharing your own ideas, and experiences.
-
-## Creating Issues
-
-[TODO: edit this section as needed]
-
-🚧
 
 ## Finding an Issue
 
@@ -121,18 +113,103 @@ Our project uses [Conventional Commits](https://www.conventionalcommits.org/en/v
 
 ## Pull Request Lifecycle
 
-[TODO: Explain your pull request process]
+[TODO: Edit the text below to describe your pull request process. You don't need to adopt every aspect! Pick and choose what makes sense for *your* project]
 
-🚧
-
-### Pull Request Checklist
+### Before You Submit
 
 When you submit your pull request, or you push new commits to it, our automated systems will run some checks on your new code. We require that your pull request passes these checks, but we also have more criteria than just that before we can accept and merge it. We recommend that you check the following things locally before you submit your code:
 
-[TODO: edit the checklist]
-
 - First thing to check
 - Another thing to check
+
+#### When to Submit
+
+Submit your pull request when you have a working implementation that addresses the issue or feature request. Your code should be tested and ready for review, even if you're open to suggestions for improvements.
+
+#### Draft vs. Ready PRs 
+
+- Use **Draft PRs** when your work is incomplete or you want early feedback on your approach
+- Convert to **Ready for Review** when your implementation is complete and tested
+- Mark as ready even if you expect minor changes during review
+
+#### Branch Strategy
+
+Create a feature branch from the latest `main` branch. Use descriptive branch names like `feature/add-user-authentication` or `fix/memory-leak-in-parser`.
+
+### Submission Process
+
+#### PR Scope
+
+We prefer **small, focused pull requests** that address a single issue or implement one feature. Large PRs are harder to review and more likely to conflict with other changes. If your feature is large, consider breaking it into multiple PRs.
+
+#### Signaling Readiness
+
+- Remove "Draft" status when ready for review
+- Ensure all CI checks are passing
+- Include a clear description of what the PR does and why
+- Link to relevant issues using "Fixes #123" or "Addresses #456"
+
+### Review Process
+
+**Initial Review Timeline**: Expect an initial review within **3-5 business days**. Complex PRs may take longer.
+
+**Follow-up Reviews**: After addressing feedback, expect follow-up reviews within **2-3 business days**.
+
+#### Requesting Reviews
+
+- After pushing changes, add a comment like "Ready for re-review" or "@mention" specific reviewers
+- If your PR hasn't been reviewed after the expected timeline, feel free to politely bump with a comment
+- For urgent fixes, mention the urgency in your comment
+
+### Handling Common Situations
+
+#### Stalled Pull Requests
+
+If your PR appears stalled:
+
+1. First, check if all feedback has been addressed
+2. After 1 week of no activity, add a polite comment requesting status
+3. If still no response after another week, reach out via [preferred communication channel]
+
+#### Abandoned Pull Requests
+
+If you can no longer continue work on your PR:
+
+- Comment on the PR explaining the situation
+- Maintainers may either:
+  - Take over the PR and push additional commits to complete it
+  - Close the PR and create a new issue for others to pick up
+  - Close the PR if the change is no longer needed
+
+#### Follow-up Work
+
+- Small follow-up changes should be addressed in the same PR when possible
+- Larger follow-ups or new issues discovered during review should be handled in separate issues/PRs
+- Use "TODO" comments sparingly and create follow-up issues for any deferred work
+
+### After Your PR is Merged
+
+**Release Timeline**: Merged pull requests are included in the next release, which typically happens:
+- **Patch releases**: Every 2-4 weeks for bug fixes
+- **Minor releases**: Every 1-3 months for new features  
+- **Major releases**: As needed for breaking changes
+
+#### Release Process
+
+After merge, your changes will:
+
+1. Be available immediately in the `main` branch
+2. Go through additional testing in our staging environment
+3. Be included in the next scheduled release
+4. Be documented in the changelog with attribution
+
+#### Staying Updated
+
+Watch the repository to be notified when your contributions are released. We'll also tag you in release notes when your PR introduces significant changes.
+
+---
+
+*Questions about the PR process? Feel free to ask in the issue comments, discussions, or reach out to the maintainers directly.*
 
 ## Code of Conduct
 

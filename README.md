@@ -2,21 +2,9 @@
 
 This repo contains templates you can check out to help you build the documentation in your project repos.
 
-## Table of contents
-
-- [How to use the templates](#ways-to-use-the-templates)
-- [List of templates](#how-to-use-the-templates)
-- [Formatting considerations](#formatting-considerations)
-
 ## How to use the templates
 
 🚧 Add instructions after creating the repo template
-
-## List of templates
-
-- [README.md template](./README-template.md)
-
-More coming!
 
 ## Formatting considerations
 

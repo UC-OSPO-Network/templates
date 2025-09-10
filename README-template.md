@@ -158,7 +158,7 @@ Contributions are always welcome! Please see [CONTRIBUTING.md](/CONTRIBUTING-tem
 
 ### Code of Conduct
 
-[TODO: edit [Code of Conduct](🚧) info]
+[TODO: edit Code of Conduct info]
 
 Please read check out the [Code of Conduct for more detail!](/CODE_OF_CONDUCT-template.md)
 
