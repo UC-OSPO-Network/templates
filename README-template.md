@@ -1,6 +1,6 @@
 # README Template
 
-[TODO: rename this file to `README.md`; i.e. remove the template reference]
+[TODO: delete the existing README, and rename this file to `README.md`; i.e. remove the template reference]
 
 This is a template document for UC projects can use to help build the documentation in your project repos. It requires editing before it is ready to use, and you can find guides for using these templates on [our website](https://ucospo.net/oss-resources/#template-guides). Please feel free to [reach out to our Laura](mailto:lalangdon@ucdavis.edu), our Community Manager, if you have any questions!
 
