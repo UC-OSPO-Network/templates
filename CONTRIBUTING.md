@@ -52,7 +52,7 @@ We welcome many different types of contributions, including:
 - Communications/Social Media/Blog Posts
 - Release management
 
-Not everything happens through a GitHub pull request. Please come to our meetings](TODO) or [contact us](TODO) and let's discuss how we can work together. 
+Not everything happens through a GitHub pull request. Please come to our meetings](TODO) or [contact us](TODO) and let's discuss how we can work together.
 
 ## Come to Community Calls
 
@@ -130,7 +130,7 @@ When you submit your pull request, or you push new commits to it, our automated 
 
 Submit your pull request when you have a working implementation that addresses the issue or feature request. Your code should be tested and ready for review, even if you're open to suggestions for improvements.
 
-#### Draft vs. Ready PRs 
+#### Draft vs. Ready PRs
 
 **[TODO: edit/remove this section as makes sense for your project ]**
 
@@ -214,8 +214,9 @@ If you can no longer continue work on your PR:
 **[TODO: edit/remove this section as makes sense for your project ]**
 
 **Release Timeline**: Merged pull requests are included in the next release, which typically happens:
+
 - **Patch releases**: Every 2-4 weeks for bug fixes
-- **Minor releases**: Every 1-3 months for new features  
+- **Minor releases**: Every 1-3 months for new features
 - **Major releases**: As needed for breaking changes
 
 #### Release Process
@@ -237,7 +238,7 @@ Watch the repository to be notified when your contributions are released. We'll 
 
 ---
 
-*Questions about the PR process? Feel free to ask in the issue comments, discussions, or reach out to the maintainers directly.*
+_Questions about the PR process? Feel free to ask in the issue comments, discussions, or reach out to the maintainers directly._
 
 ## Code of Conduct
 
