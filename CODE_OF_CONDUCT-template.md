@@ -1,12 +1,12 @@
 # CODE OF CONDUCT
 
-[TODO: rename this file to `CODE-OF-CONDUCT.md`; i.e. remove the template reference]
+**[TODO: delete any existing Code of Conduct file, and rename this file to `CODE-OF-CONDUCT.md`; i.e. remove the template reference]**
 
 This is a template document for UC projects can use to help build the documentation in your project repos. It requires editing before it is ready to use, and you can find guides for using these templates on [our website](https://ucospo.net/oss-resources/#template-guides). Please feel free to [reach out to our Laura](mailto:lalangdon@ucdavis.edu), our Community Manager, if you have any questions!
 
 Search for the word `TODO` in this template to identify parts that require customization; e.g. line 3 above lets you know you should rename this file.. When you finish editing the template, remove the `TODO` bits.
 
-[TODO: delete the lines between line 1 and the "Our Pledge" heading]
+**[TODO: delete the lines between line 1 and the "Our Pledge" heading]**
 
 > [!IMPORTANT]
 > Be sure to fill in the reporting details and review the enforcement section before posting your code of conduct!

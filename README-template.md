@@ -1,16 +1,16 @@
 # README Template
 
-[TODO: delete the existing README, and rename this file to `README.md`; i.e. remove the template reference]
+**[TODO: delete any existing README file, and rename this file to `README.md`; i.e. remove the template reference**]
 
 This is a template document for UC projects can use to help build the documentation in your project repos. It requires editing before it is ready to use, and you can find guides for using these templates on [our website](https://ucospo.net/oss-resources/#template-guides). Please feel free to [reach out to our Laura](mailto:lalangdon@ucdavis.edu), our Community Manager, if you have any questions!
 
 Search for the word `TODO` in this template to identify parts that require customization; e.g. line 3 above lets you know you should rename this file.. When you finish editing the template, remove the `TODO` bits.
 
-[TODO: replace the lines above with a description of your project and the problems it solves]
+**[TODO: replace the lines above with a description of your project and the problems it solves]**
 
 ## Table of contents
 
-[TODO: edit the Table of Contents]
+**[TODO: edit the Table of Contents]**
 
 - [Features](#features)
 - [Getting started](#getting-started)
@@ -31,7 +31,7 @@ Search for the word `TODO` in this template to identify parts that require custo
 
 ### Features
 
-[TODO: edit the features list]
+**[TODO: edit the features list]**
 
 - Feature 1
 - Feature 2
@@ -41,7 +41,7 @@ Search for the word `TODO` in this template to identify parts that require custo
 
 ### Prerequisites
 
-[TODO: add/remove prerequisites]
+**[TODO: add/remove prerequisites]**
 
 ```bash
 dependency install command here
@@ -49,7 +49,7 @@ dependency install command here
 
 ### Installation
 
-[TODO: add installation info]
+**[TODO: add installation info]**
 
 ```bash
 your project's install command
@@ -57,7 +57,7 @@ your project's install command
 
 ### Environment variables (optional)
 
-[TODO: edit/remove the env var info]
+**[TODO: edit/remove the env var info]**
 
 To run this project, you'll need to add the following environment variables to your `.env` file:
 
@@ -65,7 +65,7 @@ To run this project, you'll need to add the following environment variables to y
 
 ### Running tests (optional)
 
-[TODO: edit/remove info about running tests]
+**[TODO: edit/remove info about running tests]**
 
 ```bash
 test command
@@ -73,7 +73,7 @@ test command
 
 ### Run locally (optional)
 
-[TODO: edit/remove info about running locally]
+**[TODO: edit/remove info about running locally]**
 
 ```bash
 git clone yourprojecturl
@@ -99,7 +99,7 @@ server start command
 
 ### Deployment (optional)
 
-[TODO: edit/remove deployment info]
+**[TODO: edit/remove deployment info]**
 
 ```bash
  deployment command
@@ -107,7 +107,7 @@ server start command
 
 ## Usage
 
-[TODO: edit usage info]
+**[TODO: edit usage info]**
 
 ![Grey box with the text "Your screenshot here"](screenshot.svg)
 
@@ -117,7 +117,7 @@ print("Hello, world!")
 
 ## Roadmap (optional)
 
-[TODO: edit/remove roadmap info]
+**[TODO: edit/remove roadmap info]**
 
 ### Backlog
 
@@ -152,19 +152,19 @@ print("Hello, world!")
 
 ## Contributing (optional)
 
-[TODO: edit contributing info]
+**[TODO: edit contributing info]**
 
 Contributions are always welcome! Please see [CONTRIBUTING.md](/CONTRIBUTING-template.md) for tips to get started.
 
 ### Code of Conduct
 
-[TODO: edit Code of Conduct info]
+**[TODO: edit Code of Conduct info]**
 
 Please read check out the [Code of Conduct for more detail!](/CODE_OF_CONDUCT-template.md)
 
 ## FAQ (optional)
 
-[TODO: edit/remove FAQ]
+**[TODO: edit/remove FAQ]**
 
 **Question 1**
 
@@ -176,13 +176,13 @@ Answer 2
 
 ## License
 
-[TODO: edit license info]
+**[TODO: edit license info]**
 
 Distributed under the [insert your license name]. See [LICENSE.txt](/LICENSE) for more information.
 
 ## Contact
 
-[TODO: edit contact info]
+**[TODO: edit contact info]**
 
 - Email address
 - Social media handle(s)
@@ -191,7 +191,7 @@ Distributed under the [insert your license name]. See [LICENSE.txt](/LICENSE) fo
 
 ## Acknowledgements (optional)
 
-[TODO: edit/remove acknowledgements]
+**[TODO: edit/remove acknowledgements]**
 
 We're grateful to have built this template with inspiration from:
 
