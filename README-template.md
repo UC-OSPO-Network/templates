@@ -2,9 +2,9 @@
 
 [TODO: rename this file to `README.md`; i.e. remove the template reference]
 
-This is a template document for UC projects that requires editing before it is ready to use, and you can find guides for using this template on [our website](https://ucospo.net/oss-resources/#template-guides). You can search for "TODO" to identify areas that require customization; e.g. line 3 above lets you know you should rename this file. Please feel free to [reach out to our Laura](mailto:lalangdon@ucdavis.edu), our Community Manager, if you have any questions!
+This is a template document for UC projects that requires editing before it is ready to use, and you can find guides for using these templates on [our website](https://ucospo.net/oss-resources/#template-guides). You can search for "TODO" to identify areas that require customization; e.g. line 3 above lets you know you should rename this file. Please feel free to [reach out to our Laura](mailto:lalangdon@ucdavis.edu), our Community Manager, if you have any questions!
 
-Some links are specific to your project. Search for the word `TODO` in this template for links that need to be customized. When you finish editing 🚧 the template, remove the `TODO` bits.
+Search for the word `TODO` in this template for links that need to be customized. When you finish editing 🚧 the template, remove the `TODO` bits.
 
 [TODO: replace lines 3-9 with a description of your project and the problems it solves]
 
@@ -79,19 +79,19 @@ test command
 git clone yourprojecturl
 ```
 
-Go to the project directory
+Go to the project directory:
 
 ```bash
  cd my-project
 ```
 
-Install dependencies
+Install dependencies:
 
 ```bash
 install command
 ```
 
-Start the server
+Start the server:
 
 ```bash
 server start command

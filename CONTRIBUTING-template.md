@@ -4,9 +4,9 @@
 
 [TODO: delete lines 3-12]
 
-This is a template document for UC projects that requires editing before it is ready to use, and you can find guides for using this template on [our website](https://ucospo.net/oss-resources/#template-guides). You can search for "TODO" to identify areas that require customization; e.g. line 3 above lets you know you should rename this file. Please feel free to [reach out to our Laura](mailto:lalangdon@ucdavis.edu), our Community Manager, if you have any questions!
+This is a template document for UC projects that requires editing before it is ready to use, and you can find guides for using these templates on [our website](https://ucospo.net/oss-resources/#template-guides). You can search for "TODO" to identify areas that require customization; e.g. line 3 above lets you know you should rename this file. Please feel free to [reach out to our Laura](mailto:lalangdon@ucdavis.edu), our Community Manager, if you have any questions!
 
-Some links are specific to your project. Search for the word `TODO` in this template for links that need to be customized. When you finish editing 🚧 the template, remove the `TODO` bits.
+Search for the word `TODO` in this template for links that need to be customized. When you finish editing 🚧 the template, remove the `TODO` bits.
 
 ## Welcome!
 
@@ -27,13 +27,13 @@ If anything doesn't make sense, or doesn't work when you run it, please open a b
 [TODO: edit the Table of Contents]
 
 - [Ways to Contribute](#ways-to-contribute)
-- [Come to Meetings](#come-to-meetings)
+- [Come to Community Calls](#come-to-community-calls)
 - [Creating Issues](#creating-issues)
 - [Finding an Issue](#finding-an-issue)
 - [Setting Up a Dev Environment](#setting-up-a-dev-environment)
 - [Running Tests](#running-tests)
 - [Asking for Help](#asking-for-help)
-- [Sign Your Commits](#sign-your-commits)
+- [Norms for Commits](#norms-for-commits)
 - [Pull Request Lifecycle](#pull-request-lifecycle)
 - [Pull Request Checklist](#pull-request-checklist)
 - [Code of Conduct](#code-of-conduct)
@@ -56,22 +56,19 @@ We welcome many different types of contributions, including:
 
 Not everything happens through a GitHub pull request. Please come to our meetings](TODO) or [contact us](TODO) and let's discuss how we can work together. 
 
-## Come to Meetings
+## Come to Community Calls
 
-[TODO: Maybe your project doesn't have meetings, in which case you can omit this section. But you might consider trying them out!]
+[TODO: Maybe your project doesn't have [community calls](https://opensource.com/open-organization/16/1/community-calls-will-increase-participation-your-open-organization), in which case you can omit this section. But you might consider trying them out!]
 
-Absolutely everyone is welcome to come to any of [our meetings](TODO: add a link to your meetings). You never need an invite to join us. In fact, we want you to join us, even if you don’t have anything you feel like you want to contribute. Just being there is enough!
+Anyone interested in our project is welcome to come to any of [our community calls](TODO: add a link to your community calls)! You never need an invite to join us. In fact, we want you to join us, even if you don’t have anything you feel like you want to contribute. Just being there is enough!
 
-You don’t have to turn on your video. The first time you come, introducing yourself is more than enough. Over time, we hope that you feel comfortable voicing your opinions, giving feedback on others’ ideas, and even sharing your own ideas, and experiences.
+You don’t have to turn on your video. The first time you come, just introducing yourself is perfectly fine. Over time, we hope that you feel comfortable voicing your opinions, giving feedback on others’ ideas, and even sharing your own ideas, and experiences.
 
-## Creating issues
+## Creating Issues
 
 [TODO: edit this section as needed]
 
-You might also like to create an issue template:
-
-- [GitHub issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
-- [GitLab issue templates](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/issue_templates)
+🚧
 
 ## Finding an Issue
 
@@ -85,12 +82,26 @@ Once you see an issue that you'd like to work on, please post a comment saying t
 
 ## Setting up a Dev Environment
 
-[TODO: ]
+[TODO: edit the steps provided for what's needed for your project]
+
+Clone the project:
+
+```bash
+git clone yourprojecturl
+```
+
+Install dependencies:
+
+```bash
+install command
+```
 
 ## Running Tests
 
-[TODO: ]
+[TODO: Describe the process you use to test code in your project]
 
+1. Step one
+2. Step two
 
 ## Asking for Help
 
@@ -102,22 +113,17 @@ The best way to reach us with a question when contributing is to ask on:
 - The developer mailing list
 - Our Slack channel
 
-## Sign Your Commits
+## Norms for Commits
 
-[TODO: edit this section as needed]
+[TODO: edit this section to reflect what's needed for your project]
 
-[Instructions](https://contribute.cncf.io/maintainers/github/templates/required/contributing/#sign-your-commits)
+Our project uses [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), and we require [commit signing](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits). Please let us know if you need help with these!
 
 ## Pull Request Lifecycle
 
 [TODO: Explain your pull request process]
 
-[Instructions](https://contribute.cncf.io/maintainers/github/templates/required/contributing/#pull-request-lifecycle)
-
-You might also like to create a PR template:
-
-- [GitHub PR templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
-- [GitLab PR templates](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/issue_templates)
+🚧
 
 ### Pull Request Checklist
 
