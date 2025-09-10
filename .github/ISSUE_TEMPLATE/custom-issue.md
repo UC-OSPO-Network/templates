@@ -1,17 +1,17 @@
 ---
-name: Bug report
-about: Spelling corrections, broken link fixes, accessibility improvements, etc.
+name: Custom Issue 
+about:
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is (ex: spelling corrections, broken link fixes, accessibility improvements)
+**Describe the change you'd like to see**
+A clear and concise description of what the change(s) you'd like made
 
 **To Reproduce**
-Steps to reproduce the broken behavior:
+Steps to reproduce the circumstances motivating the change request
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'

@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: New content request 
 about: Suggest an idea for this project
 title: ''
 labels: ''
@@ -7,14 +7,11 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Please describe the content you'd like to see added**
+Describe the content that you feel is missing
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Why do you think this content should be added?**
+Explain your reasoning here
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
