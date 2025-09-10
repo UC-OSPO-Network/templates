@@ -4,8 +4,7 @@ This is a template document for UC projects can use to help build the documentat
 
 Search for the word `TODO` in this template to identify parts that require customization; e.g. line 3 above lets you know you should rename this file.. When you finish editing the template, remove the `TODO` bits.
 
-> [!IMPORTANT]
-> We've included the BSD 3-Clause license below, but this doesn't constitute legal advice and you should check with your campus's Tech Transfer Office to see what the best options are for your project. You can also a list of [UC-approved licenses](https://security.ucop.edu/resources/open-source-software-licensing.html) provided by the UC Office of the President.
+IMPORTANT: WE'VE INCLUDED THE BSD 3-CLAUSE LICENSE BELOW, BUT THIS DOESN'T CONSTITUTE LEGAL ADVICE AND YOU SHOULD CHECK WITH YOUR CAMPUS'S TECH TRANSFER OFFICE TO SEE WHAT THE BEST OPTIONS ARE FOR YOUR PROJECT. You can also check out a list of [UC-approved licenses](https://security.ucop.edu/resources/open-source-software-licensing.html) provided by the UC Office of the President.
 
 [TODO: delete the lines above the "BSD 3-Clause License]
 
