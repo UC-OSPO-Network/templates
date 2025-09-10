@@ -8,8 +8,8 @@ Search for the word `TODO` in this template for links that need to be customized
 
 [TODO: delete the lines between line 1 and the "Our Pledge" heading]
 
-[!IMPORTANT]
-Be sure to fill in the reporting details and review the enforcement section before posting your code of conduct!
+> [!IMPORTANT]
+> Be sure to fill in the reporting details and review the enforcement section before posting your code of conduct!
 
 ## Our Pledge
 
