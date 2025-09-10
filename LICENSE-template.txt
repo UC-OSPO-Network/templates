@@ -1,10 +1,10 @@
 [TODO: rename this file to `license.txt`; i.e. remove the template reference]
 
-This is a template document for UC projects can use to help build the documentation in your project repos. It requires editing before it is ready to use, and you can find guides for using these templates on [our website](https://ucospo.net/oss-resources/#template-guides). Please feel free to [reach out to our Laura](mailto:lalangdon@ucdavis.edu), our Community Manager, if you have any questions!
+This is a template document for UC projects can use to help build the documentation in your project repos. It requires editing before it is ready to use, and you can find guides for using these templates on our website: https://ucospo.net/oss-resources/#template-guides. Please feel free to [reach out to our Laura](mailto:lalangdon@ucdavis.edu), our Community Manager, if you have any questions!
 
 Search for the word `TODO` in this template to identify parts that require customization; e.g. line 3 above lets you know you should rename this file.. When you finish editing the template, remove the `TODO` bits.
 
-IMPORTANT: WE'VE INCLUDED THE BSD 3-CLAUSE LICENSE BELOW, BUT THIS DOESN'T CONSTITUTE LEGAL ADVICE AND YOU SHOULD CHECK WITH YOUR CAMPUS'S TECH TRANSFER OFFICE TO SEE WHAT THE BEST OPTIONS ARE FOR YOUR PROJECT. You can also check out a list of [UC-approved licenses](https://security.ucop.edu/resources/open-source-software-licensing.html) provided by the UC Office of the President.
+IMPORTANT: WE'VE INCLUDED THE BSD 3-CLAUSE LICENSE BELOW, BUT THIS DOESN'T CONSTITUTE LEGAL ADVICE AND YOU SHOULD CHECK WITH YOUR CAMPUS'S TECH TRANSFER OFFICE TO SEE WHAT THE BEST OPTIONS ARE FOR YOUR PROJECT. You can also check out a list of UC-approved licenses provided by the UC Office of the President: https://security.ucop.edu/resources/open-source-software-licensing.html
 
 [TODO: delete the lines above the "BSD 3-Clause License]
 
