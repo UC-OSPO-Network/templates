@@ -1,6 +1,6 @@
 ---
 name: New content request 
-about: Suggest an idea for this project
+about: A new template, or an addition to an existing template or guide
 title: ''
 labels: ''
 assignees: ''
