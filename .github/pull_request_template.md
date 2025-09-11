@@ -2,13 +2,15 @@ Thank you for contributing to our repo template! Please refer to our [Contributi
 
 Please help us understand the context for your PR:
 
-**I'm submitting ...**
-
-- [ ] A fix (ex: spelling corrections, broken link fixes, accessibility improvements)
-- [ ] New content
-- [ ] A style change
 
 **Please indicate the issue # of the issue corresponding to your PR**
+Issue # 
+
+**This PR is a...**
+
+- [ ] Fix (ex: spelling corrections, broken link fixes, accessibility improvements)
+- [ ] New content (a new template, or an addition to an existing template or guide)
+- [ ] Content revision (changing existing text in a template or guide)
 
 **What is the motivation/use case for your PR?**
 
