@@ -66,7 +66,7 @@ You don’t have to turn on your video. The first time you come, just introducin
 
 **[TODO: edit this section as needed]**
 
-We have good first issues for new contributors and help wanted issues suitable for any contributor. [good first issue](TODO) has extra information to help you make your first contribution. [help wanted](TODO) are issues suitable for someone who isn't a core maintainer and is good to move onto after your first pull request.
+We have good first issues for new contributors and help wanted issues suitable for any contributor. [`good first issue`](**TODO: link your project's `good first issue` label**) has extra information to help you make your first contribution. [`help wanted`](**TODO: link to your project's `help wanted` label**) are issues suitable for someone who isn't a core maintainer and is good to move onto after your first pull request.
 
 Sometimes there won’t be any issues with these labels. That’s ok! There is likely still something for you to work on. If you want to contribute but you don’t know where to start or can't find a suitable issue, you can **[TODO: explain how people can ask for an issue to work on]**.
 
