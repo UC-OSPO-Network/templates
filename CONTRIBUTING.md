@@ -26,7 +26,7 @@ Since this is a very small project with only a handful of files there are just a
 
 ## Join our community
 
-Anyone interested in this project or the OSPO is welcome to come to any of our [coworking sessions](https://ucospo.net/events/#coworkingoffice-hours-ongoing) These are casual, drop-in-if-feel-like it sessions where you can:
+Anyone interested in this project or the OSPO is welcome to join [our Slack Workspace](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3c6yw4l11-WU2PB4jUwAtXTDK09h8orQ) and/or come to any of our [coworking sessions](https://ucospo.net/events/#coworkingoffice-hours-ongoing) These are casual, drop-in-if-feel-like it sessions where you can:
 
 - Get help with a PR for this repo
 - Ask questions relating to OSS in general, your campus OSPO, or the OSPO network
@@ -48,7 +48,7 @@ If you see an issue that you'd like to work on, please post a comment saying tha
 The best way to reach us with a question when contributing is to ask on:
 
 - The original Github issue
-<!-- - Our Slack channel [TODO: add link] -->
+- Our [Slack community](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3c6yw4l11-WU2PB4jUwAtXTDK09h8or)
 - Our [coworking sessions](https://ucospo.net/events/#coworkingoffice-hours-ongoing)
 
 
