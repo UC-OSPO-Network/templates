@@ -1,0 +1,65 @@
+# CITATION.cff Template
+#
+# TODO: Rename this file to `CITATION.cff` (i.e. remove the "-template" reference).
+# GitHub only shows the "Cite this repository" button for a file named exactly CITATION.cff in the repository root.
+#
+# The easiest way to create a CITATION.cff is cffinit, a web form that builds a valid file for you and explains each field as you go: https://citation-file-format.github.io/cff-initializer-javascript/
+# You can also paste this file into cffinit to validate it once you've filled it in.
+# If you prefer to write your own CITATION.cff manually, this template is for you! It requires editing before it's ready to use, and you can find a guide for using it on our website: https://ucospo.net/oss-resources/#template-guides. Please feel free to reach out to our Community Manager, Laura (lalangdon@ucdavis.edu), with any questions!
+#
+# Search this file for "TODO" to find the parts that need customizing. When you're done, delete the TODO comments.
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+
+# TODO: Replace with your software's title.
+title: "My Research Software"
+
+# TODO: List everyone you'd like credited. `orcid` and `affiliation` are optional but strongly encouraged.
+# Add or remove authors as needed. For an organizational author, use `name: "My Lab"` in place of given-/family-names.
+authors:
+  - given-names: "Ada"
+    family-names: "Lovelace"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "University of California"
+  - given-names: "Grace"
+    family-names: "Hopper"
+
+# TODO: The version this citation file describes. Update it with each release.
+version: "1.0.0"
+
+# TODO: The release date, in YYYY-MM-DD format.
+date-released: "2026-01-01"
+
+# TODO: Where the code lives, and (optionally) the project's homepage.
+repository-code: "https://github.com/your-org/your-repo"
+url: "https://your-project-homepage.example"
+
+# TODO: Your project's SPDX license identifier (e.g. BSD-3-Clause, MIT, Apache-2.0). See https://spdx.org/licenses/ .
+# This should match your LICENSE file.
+license: "BSD-3-Clause"
+
+# TODO (optional): A DOI for the software itself, e.g. one minted by Zenodo when you connect your repo and make a release.
+# Delete this block if you don't have one yet.
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.0000000"
+    description: "The concept DOI for all versions of this software."
+
+# TODO (optional): A short description and a few keywords help others find your work.
+abstract: "One or two sentences describing what your software does."
+keywords:
+  - "research software"
+  - "open source"
+
+# TODO (optional): If there's a paper you'd rather people cite than the software itself, describe it here and CFF-aware tools will prefer it.
+# Otherwise, delete this block.
+preferred-citation:
+  type: article
+  title: "The paper describing this software"
+  authors:
+    - given-names: "Ada"
+      family-names: "Lovelace"
+  journal: "Journal of Open Source Software"
+  year: 2026
+  doi: "10.21105/joss.00000"
