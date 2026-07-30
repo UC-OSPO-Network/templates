@@ -3,10 +3,11 @@
 # TODO: Rename this file to `CITATION.cff` (i.e. remove the "-template" reference).
 # GitHub only shows the "Cite this repository" button for a file named exactly CITATION.cff in the repository root.
 #
-# This is a template UC projects can use to make their software citable. It requires editing before it's ready to use, and you can find a guide for using it on our website: https://ucospo.net/oss-resources/#template-guides. Please feel free to reach out to our Community Manager, Laura (lalangdon@ucdavis.edu), with any questions!
+# The easiest way to create a CITATION.cff is cffinit, a web form that builds a valid file for you and explains each field as you go: https://citation-file-format.github.io/cff-initializer-javascript/
+# You can also paste this file into cffinit to validate it once you've filled it in.
+# If you prefer to write your own CITATION.cff manually, this template is for you! It requires editing before it's ready to use, and you can find a guide for using it on our website: https://ucospo.net/oss-resources/#template-guides. Please feel free to reach out to our Community Manager, Laura (lalangdon@ucdavis.edu), with any questions!
 #
 # Search this file for "TODO" to find the parts that need customizing. When you're done, delete the TODO comments.
-# You can also build or validate a file at https://citation-file-format.github.io/cff-initializer-javascript/ (cffinit).
 
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata from this file."
